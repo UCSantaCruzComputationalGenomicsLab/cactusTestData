@@ -1,0 +1,1392 @@
+<alignment_comparisons sampleNumber="1000000">
+	<homology_tests fileA="true.maf" fileB="output.maf" near="0">
+<aggregate_results>
+<all totalTests="1000088" totalTrue="821066" totalFalse="179022" average="0.820994"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="1000088" totalTrue="821066" totalFalse="179022" average="0.820994"/>
+</aggregate_results>
+<homology_pair_tests>
+<homology_test sequenceA="PIG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="18296" totalTrue="8417" totalFalse="9879" average="0.460046"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="18296" totalTrue="8417" totalFalse="9879" average="0.460046"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="PIG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="18296" totalTrue="8417" totalFalse="9879" average="0.460046"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="18296" totalTrue="8417" totalFalse="9879" average="0.460046"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="MOUSE" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="23414" totalTrue="22287" totalFalse="1127" average="0.951866"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="23414" totalTrue="22287" totalFalse="1127" average="0.951866"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="MOUSE" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="23414" totalTrue="22287" totalFalse="1127" average="0.951866"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="23414" totalTrue="22287" totalFalse="1127" average="0.951866"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="MOUSE" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="16287" totalTrue="8087" totalFalse="8200" average="0.496531"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16287" totalTrue="8087" totalFalse="8200" average="0.496531"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="MOUSE" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="16287" totalTrue="8087" totalFalse="8200" average="0.496531"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16287" totalTrue="8087" totalFalse="8200" average="0.496531"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="HUMAN" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="19088" totalTrue="9433" totalFalse="9655" average="0.494185"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="19088" totalTrue="9433" totalFalse="9655" average="0.494185"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="HUMAN" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="19088" totalTrue="9433" totalFalse="9655" average="0.494185"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="19088" totalTrue="9433" totalFalse="9655" average="0.494185"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="HUMAN" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34740" totalTrue="31525" totalFalse="3215" average="0.907455"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34740" totalTrue="31525" totalFalse="3215" average="0.907455"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="HUMAN" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34740" totalTrue="31525" totalFalse="3215" average="0.907455"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34740" totalTrue="31525" totalFalse="3215" average="0.907455"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="HUMAN" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16971" totalTrue="9019" totalFalse="7952" average="0.531436"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16971" totalTrue="9019" totalFalse="7952" average="0.531436"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="HUMAN" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16971" totalTrue="9019" totalFalse="7952" average="0.531436"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16971" totalTrue="9019" totalFalse="7952" average="0.531436"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="17972" totalTrue="8070" totalFalse="9902" average="0.449032"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="17972" totalTrue="8070" totalFalse="9902" average="0.449032"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="17972" totalTrue="8070" totalFalse="9902" average="0.449032"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="17972" totalTrue="8070" totalFalse="9902" average="0.449032"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="35296" totalTrue="33609" totalFalse="1687" average="0.952204"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="35296" totalTrue="33609" totalFalse="1687" average="0.952204"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="35296" totalTrue="33609" totalFalse="1687" average="0.952204"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="35296" totalTrue="33609" totalFalse="1687" average="0.952204"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16031" totalTrue="7862" totalFalse="8169" average="0.490425"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16031" totalTrue="7862" totalFalse="8169" average="0.490425"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16031" totalTrue="7862" totalFalse="8169" average="0.490425"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16031" totalTrue="7862" totalFalse="8169" average="0.490425"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="32586" totalTrue="29845" totalFalse="2741" average="0.915884"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32586" totalTrue="29845" totalFalse="2741" average="0.915884"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="32586" totalTrue="29845" totalFalse="2741" average="0.915884"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32586" totalTrue="29845" totalFalse="2741" average="0.915884"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="16618" totalTrue="7598" totalFalse="9020" average="0.457215"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16618" totalTrue="7598" totalFalse="9020" average="0.457215"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="16618" totalTrue="7598" totalFalse="9020" average="0.457215"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16618" totalTrue="7598" totalFalse="9020" average="0.457215"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37376" totalTrue="35878" totalFalse="1498" average="0.959921"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37376" totalTrue="35878" totalFalse="1498" average="0.959921"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37376" totalTrue="35878" totalFalse="1498" average="0.959921"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37376" totalTrue="35878" totalFalse="1498" average="0.959921"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="15318" totalTrue="7427" totalFalse="7891" average="0.484854"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="15318" totalTrue="7427" totalFalse="7891" average="0.484854"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="15318" totalTrue="7427" totalFalse="7891" average="0.484854"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="15318" totalTrue="7427" totalFalse="7891" average="0.484854"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="32016" totalTrue="28500" totalFalse="3516" average="0.890180"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32016" totalTrue="28500" totalFalse="3516" average="0.890180"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="32016" totalTrue="28500" totalFalse="3516" average="0.890180"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32016" totalTrue="28500" totalFalse="3516" average="0.890180"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="32825" totalTrue="30752" totalFalse="2073" average="0.936847"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32825" totalTrue="30752" totalFalse="2073" average="0.936847"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="32825" totalTrue="30752" totalFalse="2073" average="0.936847"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32825" totalTrue="30752" totalFalse="2073" average="0.936847"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="19032" totalTrue="9382" totalFalse="9650" average="0.492959"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="19032" totalTrue="9382" totalFalse="9650" average="0.492959"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="19032" totalTrue="9382" totalFalse="9650" average="0.492959"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="19032" totalTrue="9382" totalFalse="9650" average="0.492959"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34573" totalTrue="31419" totalFalse="3154" average="0.908773"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34573" totalTrue="31419" totalFalse="3154" average="0.908773"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34573" totalTrue="31419" totalFalse="3154" average="0.908773"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34573" totalTrue="31419" totalFalse="3154" average="0.908773"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16883" totalTrue="8953" totalFalse="7930" average="0.530297"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16883" totalTrue="8953" totalFalse="7930" average="0.530297"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16883" totalTrue="8953" totalFalse="7930" average="0.530297"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16883" totalTrue="8953" totalFalse="7930" average="0.530297"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="47080" totalTrue="45855" totalFalse="1225" average="0.973980"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="47080" totalTrue="45855" totalFalse="1225" average="0.973980"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="47080" totalTrue="45855" totalFalse="1225" average="0.973980"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="47080" totalTrue="45855" totalFalse="1225" average="0.973980"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="32403" totalTrue="29657" totalFalse="2746" average="0.915255"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32403" totalTrue="29657" totalFalse="2746" average="0.915255"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="32403" totalTrue="29657" totalFalse="2746" average="0.915255"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32403" totalTrue="29657" totalFalse="2746" average="0.915255"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="COW">
+<aggregate_results>
+<all totalTests="31864" totalTrue="28355" totalFalse="3509" average="0.889876"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31864" totalTrue="28355" totalFalse="3509" average="0.889876"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="COW">
+<aggregate_results>
+<all totalTests="31864" totalTrue="28355" totalFalse="3509" average="0.889876"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31864" totalTrue="28355" totalFalse="3509" average="0.889876"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="16295" totalTrue="7151" totalFalse="9144" average="0.438846"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16295" totalTrue="7151" totalFalse="9144" average="0.438846"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="16295" totalTrue="7151" totalFalse="9144" average="0.438846"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16295" totalTrue="7151" totalFalse="9144" average="0.438846"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34600" totalTrue="32138" totalFalse="2462" average="0.928844"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34600" totalTrue="32138" totalFalse="2462" average="0.928844"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34600" totalTrue="32138" totalFalse="2462" average="0.928844"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34600" totalTrue="32138" totalFalse="2462" average="0.928844"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="14235" totalTrue="6521" totalFalse="7714" average="0.458096"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14235" totalTrue="6521" totalFalse="7714" average="0.458096"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="14235" totalTrue="6521" totalFalse="7714" average="0.458096"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14235" totalTrue="6521" totalFalse="7714" average="0.458096"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="31567" totalTrue="27957" totalFalse="3610" average="0.885640"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31567" totalTrue="27957" totalFalse="3610" average="0.885640"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="31567" totalTrue="27957" totalFalse="3610" average="0.885640"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31567" totalTrue="27957" totalFalse="3610" average="0.885640"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="33952" totalTrue="32586" totalFalse="1366" average="0.959767"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="33952" totalTrue="32586" totalFalse="1366" average="0.959767"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="33952" totalTrue="32586" totalFalse="1366" average="0.959767"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="33952" totalTrue="32586" totalFalse="1366" average="0.959767"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="COW">
+<aggregate_results>
+<all totalTests="32831" totalTrue="30193" totalFalse="2638" average="0.919649"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32831" totalTrue="30193" totalFalse="2638" average="0.919649"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="COW">
+<aggregate_results>
+<all totalTests="32831" totalTrue="30193" totalFalse="2638" average="0.919649"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32831" totalTrue="30193" totalFalse="2638" average="0.919649"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="31540" totalTrue="27920" totalFalse="3620" average="0.885225"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31540" totalTrue="27920" totalFalse="3620" average="0.885225"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="31540" totalTrue="27920" totalFalse="3620" average="0.885225"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31540" totalTrue="27920" totalFalse="3620" average="0.885225"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="18744" totalTrue="9243" totalFalse="9501" average="0.493118"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="18744" totalTrue="9243" totalFalse="9501" average="0.493118"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="18744" totalTrue="9243" totalFalse="9501" average="0.493118"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="18744" totalTrue="9243" totalFalse="9501" average="0.493118"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34879" totalTrue="31489" totalFalse="3390" average="0.902807"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34879" totalTrue="31489" totalFalse="3390" average="0.902807"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="34879" totalTrue="31489" totalFalse="3390" average="0.902807"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34879" totalTrue="31489" totalFalse="3390" average="0.902807"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16831" totalTrue="9028" totalFalse="7803" average="0.536391"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16831" totalTrue="9028" totalFalse="7803" average="0.536391"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="16831" totalTrue="9028" totalFalse="7803" average="0.536391"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="16831" totalTrue="9028" totalFalse="7803" average="0.536391"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="45796" totalTrue="44483" totalFalse="1313" average="0.971329"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="45796" totalTrue="44483" totalFalse="1313" average="0.971329"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="45796" totalTrue="44483" totalFalse="1313" average="0.971329"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="45796" totalTrue="44483" totalFalse="1313" average="0.971329"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="32714" totalTrue="29746" totalFalse="2968" average="0.909274"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32714" totalTrue="29746" totalFalse="2968" average="0.909274"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="32714" totalTrue="29746" totalFalse="2968" average="0.909274"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32714" totalTrue="29746" totalFalse="2968" average="0.909274"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="COW">
+<aggregate_results>
+<all totalTests="32102" totalTrue="28415" totalFalse="3687" average="0.885147"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32102" totalTrue="28415" totalFalse="3687" average="0.885147"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="COW">
+<aggregate_results>
+<all totalTests="32102" totalTrue="28415" totalFalse="3687" average="0.885147"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="32102" totalTrue="28415" totalFalse="3687" average="0.885147"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="45640" totalTrue="44309" totalFalse="1331" average="0.970837"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="45640" totalTrue="44309" totalFalse="1331" average="0.970837"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="45640" totalTrue="44309" totalFalse="1331" average="0.970837"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="45640" totalTrue="44309" totalFalse="1331" average="0.970837"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="CAT">
+<aggregate_results>
+<all totalTests="31693" totalTrue="27957" totalFalse="3736" average="0.882119"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31693" totalTrue="27957" totalFalse="3736" average="0.882119"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="CAT">
+<aggregate_results>
+<all totalTests="31693" totalTrue="27957" totalFalse="3736" average="0.882119"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="31693" totalTrue="27957" totalFalse="3736" average="0.882119"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+</homology_pair_tests>
+</homology_tests>
+	<homology_tests fileA="output.maf" fileB="true.maf" near="0">
+<aggregate_results>
+<all totalTests="1000280" totalTrue="893113" totalFalse="107167" average="0.892863"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="1000280" totalTrue="893113" totalFalse="107167" average="0.892863"/>
+</aggregate_results>
+<homology_pair_tests>
+<homology_test sequenceA="PIG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="12877" totalTrue="9117" totalFalse="3760" average="0.708007"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12877" totalTrue="9117" totalFalse="3760" average="0.708007"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="PIG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="12877" totalTrue="9117" totalFalse="3760" average="0.708007"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12877" totalTrue="9117" totalFalse="3760" average="0.708007"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="MOUSE" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="25483" totalTrue="24258" totalFalse="1225" average="0.951929"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="25483" totalTrue="24258" totalFalse="1225" average="0.951929"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="MOUSE" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="25483" totalTrue="24258" totalFalse="1225" average="0.951929"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="25483" totalTrue="24258" totalFalse="1225" average="0.951929"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="MOUSE" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="11445" totalTrue="8763" totalFalse="2682" average="0.765662"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11445" totalTrue="8763" totalFalse="2682" average="0.765662"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="MOUSE" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="11445" totalTrue="8763" totalFalse="2682" average="0.765662"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11445" totalTrue="8763" totalFalse="2682" average="0.765662"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="HUMAN" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="14290" totalTrue="10282" totalFalse="4008" average="0.719524"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14290" totalTrue="10282" totalFalse="4008" average="0.719524"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="HUMAN" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="14290" totalTrue="10282" totalFalse="4008" average="0.719524"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14290" totalTrue="10282" totalFalse="4008" average="0.719524"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="HUMAN" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37559" totalTrue="34284" totalFalse="3275" average="0.912804"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37559" totalTrue="34284" totalFalse="3275" average="0.912804"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="HUMAN" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37559" totalTrue="34284" totalFalse="3275" average="0.912804"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37559" totalTrue="34284" totalFalse="3275" average="0.912804"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="HUMAN" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="12465" totalTrue="9760" totalFalse="2705" average="0.782992"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12465" totalTrue="9760" totalFalse="2705" average="0.782992"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="HUMAN" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="12465" totalTrue="9760" totalFalse="2705" average="0.782992"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12465" totalTrue="9760" totalFalse="2705" average="0.782992"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="12961" totalTrue="8785" totalFalse="4176" average="0.677803"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12961" totalTrue="8785" totalFalse="4176" average="0.677803"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="12961" totalTrue="8785" totalFalse="4176" average="0.677803"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12961" totalTrue="8785" totalFalse="4176" average="0.677803"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="38900" totalTrue="36670" totalFalse="2230" average="0.942674"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="38900" totalTrue="36670" totalFalse="2230" average="0.942674"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="38900" totalTrue="36670" totalFalse="2230" average="0.942674"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="38900" totalTrue="36670" totalFalse="2230" average="0.942674"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="11705" totalTrue="8562" totalFalse="3143" average="0.731482"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11705" totalTrue="8562" totalFalse="3143" average="0.731482"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="11705" totalTrue="8562" totalFalse="3143" average="0.731482"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11705" totalTrue="8562" totalFalse="3143" average="0.731482"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="DOG" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="36905" totalTrue="32279" totalFalse="4626" average="0.874651"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36905" totalTrue="32279" totalFalse="4626" average="0.874651"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="DOG" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="36905" totalTrue="32279" totalFalse="4626" average="0.874651"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36905" totalTrue="32279" totalFalse="4626" average="0.874651"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="11666" totalTrue="8345" totalFalse="3321" average="0.715327"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11666" totalTrue="8345" totalFalse="3321" average="0.715327"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="11666" totalTrue="8345" totalFalse="3321" average="0.715327"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11666" totalTrue="8345" totalFalse="3321" average="0.715327"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="41005" totalTrue="38946" totalFalse="2059" average="0.949787"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="41005" totalTrue="38946" totalFalse="2059" average="0.949787"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="41005" totalTrue="38946" totalFalse="2059" average="0.949787"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="41005" totalTrue="38946" totalFalse="2059" average="0.949787"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="10528" totalTrue="8049" totalFalse="2479" average="0.764533"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="10528" totalTrue="8049" totalFalse="2479" average="0.764533"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="10528" totalTrue="8049" totalFalse="2479" average="0.764533"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="10528" totalTrue="8049" totalFalse="2479" average="0.764533"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="34376" totalTrue="30916" totalFalse="3460" average="0.899348"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34376" totalTrue="30916" totalFalse="3460" average="0.899348"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="34376" totalTrue="30916" totalFalse="3460" average="0.899348"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34376" totalTrue="30916" totalFalse="3460" average="0.899348"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="COW" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="36129" totalTrue="33433" totalFalse="2696" average="0.925379"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36129" totalTrue="33433" totalFalse="2696" average="0.925379"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="COW" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="36129" totalTrue="33433" totalFalse="2696" average="0.925379"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36129" totalTrue="33433" totalFalse="2696" average="0.925379"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="14305" totalTrue="10243" totalFalse="4062" average="0.716043"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14305" totalTrue="10243" totalFalse="4062" average="0.716043"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="14305" totalTrue="10243" totalFalse="4062" average="0.716043"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14305" totalTrue="10243" totalFalse="4062" average="0.716043"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37518" totalTrue="34301" totalFalse="3217" average="0.914254"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37518" totalTrue="34301" totalFalse="3217" average="0.914254"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37518" totalTrue="34301" totalFalse="3217" average="0.914254"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37518" totalTrue="34301" totalFalse="3217" average="0.914254"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="12464" totalTrue="9771" totalFalse="2693" average="0.783938"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12464" totalTrue="9771" totalFalse="2693" average="0.783938"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="12464" totalTrue="9771" totalFalse="2693" average="0.783938"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12464" totalTrue="9771" totalFalse="2693" average="0.783938"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="49961" totalTrue="49938" totalFalse="23" average="0.999540"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="49961" totalTrue="49938" totalFalse="23" average="0.999540"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="49961" totalTrue="49938" totalFalse="23" average="0.999540"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="49961" totalTrue="49938" totalFalse="23" average="0.999540"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="36858" totalTrue="32255" totalFalse="4603" average="0.875115"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36858" totalTrue="32255" totalFalse="4603" average="0.875115"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="36858" totalTrue="32255" totalFalse="4603" average="0.875115"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36858" totalTrue="32255" totalFalse="4603" average="0.875115"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CHIMP" sequenceB="COW">
+<aggregate_results>
+<all totalTests="34201" totalTrue="30723" totalFalse="3478" average="0.898307"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34201" totalTrue="30723" totalFalse="3478" average="0.898307"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CHIMP" sequenceB="COW">
+<aggregate_results>
+<all totalTests="34201" totalTrue="30723" totalFalse="3478" average="0.898307"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34201" totalTrue="30723" totalFalse="3478" average="0.898307"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="11337" totalTrue="7750" totalFalse="3587" average="0.683602"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11337" totalTrue="7750" totalFalse="3587" average="0.683602"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="11337" totalTrue="7750" totalFalse="3587" average="0.683602"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="11337" totalTrue="7750" totalFalse="3587" average="0.683602"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37421" totalTrue="34986" totalFalse="2435" average="0.934930"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37421" totalTrue="34986" totalFalse="2435" average="0.934930"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37421" totalTrue="34986" totalFalse="2435" average="0.934930"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37421" totalTrue="34986" totalFalse="2435" average="0.934930"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="9610" totalTrue="7109" totalFalse="2501" average="0.739750"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="9610" totalTrue="7109" totalFalse="2501" average="0.739750"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="9610" totalTrue="7109" totalFalse="2501" average="0.739750"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="9610" totalTrue="7109" totalFalse="2501" average="0.739750"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="34410" totalTrue="30480" totalFalse="3930" average="0.885789"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34410" totalTrue="30480" totalFalse="3930" average="0.885789"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="34410" totalTrue="30480" totalFalse="3930" average="0.885789"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34410" totalTrue="30480" totalFalse="3930" average="0.885789"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="37751" totalTrue="35398" totalFalse="2353" average="0.937671"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37751" totalTrue="35398" totalFalse="2353" average="0.937671"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="37751" totalTrue="35398" totalFalse="2353" average="0.937671"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37751" totalTrue="35398" totalFalse="2353" average="0.937671"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="COW">
+<aggregate_results>
+<all totalTests="35643" totalTrue="32881" totalFalse="2762" average="0.922509"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="35643" totalTrue="32881" totalFalse="2762" average="0.922509"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="COW">
+<aggregate_results>
+<all totalTests="35643" totalTrue="32881" totalFalse="2762" average="0.922509"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="35643" totalTrue="32881" totalFalse="2762" average="0.922509"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="CAT" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="34283" totalTrue="30400" totalFalse="3883" average="0.886737"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34283" totalTrue="30400" totalFalse="3883" average="0.886737"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="CAT" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="34283" totalTrue="30400" totalFalse="3883" average="0.886737"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34283" totalTrue="30400" totalFalse="3883" average="0.886737"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="14087" totalTrue="10092" totalFalse="3995" average="0.716405"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14087" totalTrue="10092" totalFalse="3995" average="0.716405"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="RAT">
+<aggregate_results>
+<all totalTests="14087" totalTrue="10092" totalFalse="3995" average="0.716405"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="14087" totalTrue="10092" totalFalse="3995" average="0.716405"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37259" totalTrue="34286" totalFalse="2973" average="0.920207"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37259" totalTrue="34286" totalFalse="2973" average="0.920207"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="PIG">
+<aggregate_results>
+<all totalTests="37259" totalTrue="34286" totalFalse="2973" average="0.920207"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="37259" totalTrue="34286" totalFalse="2973" average="0.920207"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="12616" totalTrue="9872" totalFalse="2744" average="0.782498"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12616" totalTrue="9872" totalFalse="2744" average="0.782498"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="MOUSE">
+<aggregate_results>
+<all totalTests="12616" totalTrue="9872" totalFalse="2744" average="0.782498"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="12616" totalTrue="9872" totalFalse="2744" average="0.782498"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="48641" totalTrue="48451" totalFalse="190" average="0.996094"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="48641" totalTrue="48451" totalFalse="190" average="0.996094"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="HUMAN">
+<aggregate_results>
+<all totalTests="48641" totalTrue="48451" totalFalse="190" average="0.996094"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="48641" totalTrue="48451" totalFalse="190" average="0.996094"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="36761" totalTrue="32227" totalFalse="4534" average="0.876663"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36761" totalTrue="32227" totalFalse="4534" average="0.876663"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="DOG">
+<aggregate_results>
+<all totalTests="36761" totalTrue="32227" totalFalse="4534" average="0.876663"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="36761" totalTrue="32227" totalFalse="4534" average="0.876663"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="COW">
+<aggregate_results>
+<all totalTests="34186" totalTrue="30823" totalFalse="3363" average="0.901626"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34186" totalTrue="30823" totalFalse="3363" average="0.901626"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="COW">
+<aggregate_results>
+<all totalTests="34186" totalTrue="30823" totalFalse="3363" average="0.901626"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34186" totalTrue="30823" totalFalse="3363" average="0.901626"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="48447" totalTrue="48248" totalFalse="199" average="0.995892"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="48447" totalTrue="48248" totalFalse="199" average="0.995892"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="CHIMP">
+<aggregate_results>
+<all totalTests="48447" totalTrue="48248" totalFalse="199" average="0.995892"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="48447" totalTrue="48248" totalFalse="199" average="0.995892"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+<homology_test sequenceA="BABOON" sequenceB="CAT">
+<aggregate_results>
+<all totalTests="34227" totalTrue="30430" totalFalse="3797" average="0.889064"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34227" totalTrue="30430" totalFalse="3797" average="0.889064"/>
+</aggregate_results>
+<single_homology_tests><single_homology_test sequenceA="BABOON" sequenceB="CAT">
+<aggregate_results>
+<all totalTests="34227" totalTrue="30430" totalFalse="3797" average="0.889064"/>
+<both totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<A totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<B totalTests="0" totalTrue="0" totalFalse="0" average="nan"/>
+<neither totalTests="34227" totalTrue="30430" totalFalse="3797" average="0.889064"/>
+</aggregate_results>
+</single_homology_test>
+</single_homology_tests>
+</homology_test>
+</homology_pair_tests>
+</homology_tests>
+</alignment_comparisons>
